@@ -161,12 +161,14 @@
     <ClCompile Include="Entity.cpp" />
     <ClCompile Include="MetaprogrammingDemo.cpp" />
     <ClCompile Include="Query.cpp" />
+    <ClCompile Include="TypeHash.cpp" />
     <ClCompile Include="TypeList.cpp" />
     <ClCompile Include="World.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Entity.h" />
     <ClInclude Include="Query.h" />
+    <ClInclude Include="TypeHash.h" />
     <ClInclude Include="TypeList.h" />
     <ClInclude Include="World.h" />
   </ItemGroup>
